@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.carousel-img{
+    background-attachment: fixed;
+}
+
+#products{
+    margin-top: 1rem;
+}
+
+h2{
+    margin: 0 auto;
+    text-align: center;
+    padding: 5rem 0;
+    font-weight: bolder;
+}
+
+.col-lg-3{
+    margin-bottom: 1rem;
+}
+
+.badge{
+    font-weight: lighter;
+}
+
+.about-content{
+    padding: 3rem;
+}
+
+.about-fig{
+    margin: 2rem 0;
+}
+
+#contact-us{
+    background-color: #0D6EFD;
+    color: #fff;
+}
+
+.contact-info{
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding: 3rem;
+    color: rgb(26, 26, 26);
+    font-family: 'Courier New', Courier, monospace;
+}
